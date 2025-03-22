@@ -1,2 +1,2 @@
-# cpp_codes
-My own codes for programming course
+# Кодики на плюсиках
+*Здесь хранятся коды к домашкам за 2 сем.*
